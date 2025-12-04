@@ -11,3 +11,4 @@ Around the world, soccer is a popular sport. Millions of people enjoy using each
 2. The number of goals scored during a game.
 
 We used the **European Soccer Database** from Kaggle, which includes 11 leagues, 10,000 players, and more than 25,000.
+https://github.com/MaksimObukhov/football-predictor-ml
